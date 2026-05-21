@@ -2,7 +2,7 @@
 // src/components/Footer.jsx
 // ============================
 
-import logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 import fb from "../assets/fb.png";
 import tw from "../assets/tw.png";
 import instagram from "../assets/Instagram.png";
@@ -12,7 +12,7 @@ function Footer() {
     <div className="eighthSectionContainer">
       <div className="footerDescription">
         <div className="footerPart">
-          <img src={logo} alt="" className="footerLogo" />
+          <img src={Logo} alt="" className="footerLogo" />
 
           <h5 className="footerMerk">
             Lasles
