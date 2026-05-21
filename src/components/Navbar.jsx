@@ -2,7 +2,7 @@
 // src/components/Navbar.jsx
 // ============================
 
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import burgerIcon from "../assets/burgerIcon.png";
 
 function Navbar() {
