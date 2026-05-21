@@ -1,8 +1,7 @@
 // ============================
 // src/components/Navbar.jsx
 // ============================
-
-import logo from "../assets/Logo.png";
+import Logo from "../assets/Logo.png";
 import burgerIcon from "../assets/burgerIcon.png";
 
 function Navbar() {
@@ -10,7 +9,7 @@ function Navbar() {
     <div className="navbar">
       <div className="logoMerk">
         <div>
-          <img src={logo} alt="logo" />
+          <img src={Logo} alt="logo" />
         </div>
 
         <div className="navbarMerk">
